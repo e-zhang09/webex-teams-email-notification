@@ -2,3 +2,4 @@
 tmp/
 test_configurations/
 venv/
+__pycache__/
